@@ -1,0 +1,41 @@
+$links-margin-outer: 10px;
+
+.menu-item {
+  position: fixed;
+  font-size: 1em;
+  line-height: 1.5em;
+  letter-spacing: 0.055em;
+  text-transform: uppercase;
+  color: #000000;
+}
+
+#home {
+  top: $links-margin-outer;
+  left: 30%;
+}
+
+#about {
+  right: $links-margin-outer;
+  top: 30%;
+}
+
+#social {
+  bottom: $links-margin-outer;
+  left: 60%;
+
+  #behence {
+    margin-right: 30px;
+  }
+
+  #instagram {
+
+  }
+}
+
+#works {
+  left: $links-margin-outer;
+  top: 30%;
+  transform: rotate(-90deg) translateX(-6ch);
+  transform-origin: top left;
+}
+

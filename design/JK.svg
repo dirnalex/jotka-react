@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:cc="http://creativecommons.org/ns#"
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+        xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+        viewBox="0 0 592.94 370.85"
+        version="1.1"
+        id="svg22"
+        sodipodi:docname="JK.svg"
+        inkscape:version="1.0beta1 (32d4812, 2019-09-19)">
+    <metadata
+            id="metadata26">
+        <rdf:RDF>
+            <cc:Work
+                    rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                        rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title></dc:title>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <sodipodi:namedview
+            pagecolor="#ffffff"
+            bordercolor="#666666"
+            inkscape:document-rotation="0"
+            borderopacity="1"
+            objecttolerance="10"
+            gridtolerance="10"
+            guidetolerance="10"
+            inkscape:pageopacity="0"
+            inkscape:pageshadow="2"
+            inkscape:window-width="1680"
+            inkscape:window-height="1005"
+            id="namedview24"
+            showgrid="false"
+            inkscape:zoom="0.72615408"
+            inkscape:cx="352.59925"
+            inkscape:cy="319.49285"
+            inkscape:window-x="1440"
+            inkscape:window-y="23"
+            inkscape:window-maximized="1"
+            inkscape:current-layer="svg22"/>
+    <defs
+            id="defs12">
+        <style
+                id="style10">
+            .cls-1 {
+            fill: #333;
+            }
+
+            .cls-2 {
+            fill: #c1272d;
+            }
+        </style>
+    </defs>
+    <g
+            id="Layer_2"
+            data-name="Layer 2">
+        <g
+                id="Warstwa_1"
+                data-name="Warstwa 1">
+            <path
+                    class="cls-1"
+                    d="m 0,0 h 286 v 136 c -24.35,-30.67 -70.08,-52 -123,-52 c -78.23,0 -142,45.24 -142,101 c 0,55.76 63.77,101 142,101 c 52.92,0 98.68,-20.33 123,-51 l 0.05,135 h -286.05 z"
+                    id="path14"
+                    inkscape:connector-curvature="0"
+                    sodipodi:nodetypes="cccssscccc"/>
+            <path
+                    sodipodi:nodetypes="ccccscccccc"
+                    inkscape:connector-curvature="0"
+                    class="cls-1"
+                    d="m 327.12,175.41 c 7.63,-0.22 10.29,-0.31 32.88,0 c 115.7,1.59 202.34,81.51 232.91,195.49 h -171.89 c 0,0 0.49,-20.28 0.49,-25 c 0,-81.78 -46.49,-148.28 -104.49,-150.43 l -9.88,-0.17 v -194.91 h 285.8 v 16.32 c -128.57,7.43 -233.69,72.4 -265.82,158.7 z"
+                    id="path16"/>
+            <circle
+                    class="cls-2"
+                    cx="535.98"
+                    cy="323.47"
+                    r="13.74"
+                    id="circle18"/>
+        </g>
+    </g>
+</svg>

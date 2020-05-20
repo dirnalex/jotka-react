@@ -1,25 +1,145 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0fc7fa28-8ac5-4b60-9ef7-821d47dfd30d" name="Default Changelist" comment="" />
+    <list default="true" id="0fc7fa28-8ac5-4b60-9ef7-821d47dfd30d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design/JK.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design/jotka logo.ai" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/Grotta-Regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/Grotta-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/cursor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/cursor.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/hand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/icons/1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/icons/2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/icons/3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/icons/4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/icons/5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/icons/6.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/star.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/stone-face.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/svg/JK.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Logo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Logo.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Menu.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/scrollPosition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/coordinateTransformations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/svgCurveTransformations.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1aTneyfJIXo1O7wzSeW2fVlhpUK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/utils" />
+    </key>
+    <key name="es6.move.members.recent.items">
+      <recent name="$PROJECT_DIR$/src/utils/svgCurveTransformations.js" />
+      <recent name="$PROJECT_DIR$/src/utils/coordinateTransformations.js" />
+      <recent name="$PROJECT_DIR$/src/components/svgCurveTransformations.js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/public/svg" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -31,8 +151,92 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586768551523</updated>
-      <workItem from="1586768555567" duration="1000" />
+      <workItem from="1586768555567" duration="57552000" />
+      <workItem from="1588168641078" duration="16222000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="108" key="#Deployment" timestamp="1588282200549">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="103" key="#Deployment/0.23.1440.827/1440.-71.1680.1027@0.23.1440.827" timestamp="1588274113756" />
+    <state x="320" y="108" key="#Deployment/0.23.1440.877/1440.-71.1680.977@0.23.1440.877" timestamp="1588282200549" />
+    <state x="320" y="108" key="#Options" timestamp="1588282165335">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="103" key="#Options/0.23.1440.827/1440.-71.1680.1027@0.23.1440.827" timestamp="1588274138993" />
+    <state x="320" y="108" key="#Options/0.23.1440.877/1440.-71.1680.977@0.23.1440.877" timestamp="1588282165335" />
+    <state x="184" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587641723632">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="184" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.827/1440.-437.1680.1027@0.23.1440.827" timestamp="1587641723632" />
+    <state x="460" y="246" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587654988618">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="460" y="246" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.827/1440.-437.1680.1027@0.23.1440.827" timestamp="1587654988618" />
+    <state x="408" y="181" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1588168414547">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="408" y="181" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.877/1440.-71.1680.977@0.23.1440.877" timestamp="1588168414547" />
+    <state x="100" y="123" width="1240" height="627" key="DirDiffDialog" timestamp="1588280173933">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="100" y="123" width="1240" height="627" key="DirDiffDialog/0.23.1440.827/1440.-71.1680.1027@0.23.1440.827" timestamp="1588280173933" />
+    <state width="1398" height="133" key="GridCell.Tab.0.bottom" timestamp="1589982621532">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.827/1440.-437.1680.1027@0.23.1440.827" timestamp="1587856319867" />
+    <state width="1398" height="133" key="GridCell.Tab.0.bottom/0.23.1440.827/1440.-71.1680.1027@0.23.1440.827" timestamp="1589982621532" />
+    <state width="1398" height="133" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1589539042289" />
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-71.1680.1027@0.23.1440.877" timestamp="1587985861216" />
+    <state width="1398" height="133" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-71.1680.977@0.23.1440.877" timestamp="1588289978239" />
+    <state width="1398" height="133" key="GridCell.Tab.0.center" timestamp="1589982621529">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.827/1440.-437.1680.1027@0.23.1440.827" timestamp="1587856319866" />
+    <state width="1398" height="133" key="GridCell.Tab.0.center/0.23.1440.827/1440.-71.1680.1027@0.23.1440.827" timestamp="1589982621529" />
+    <state width="1398" height="133" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1589539042287" />
+    <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.877/1440.-71.1680.1027@0.23.1440.877" timestamp="1587985861215" />
+    <state width="1398" height="133" key="GridCell.Tab.0.center/0.23.1440.877/1440.-71.1680.977@0.23.1440.877" timestamp="1588289978237" />
+    <state width="1398" height="133" key="GridCell.Tab.0.left" timestamp="1589982621526">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.827/1440.-437.1680.1027@0.23.1440.827" timestamp="1587856319865" />
+    <state width="1398" height="133" key="GridCell.Tab.0.left/0.23.1440.827/1440.-71.1680.1027@0.23.1440.827" timestamp="1589982621526" />
+    <state width="1398" height="133" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1589539042286" />
+    <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.877/1440.-71.1680.1027@0.23.1440.877" timestamp="1587985861214" />
+    <state width="1398" height="133" key="GridCell.Tab.0.left/0.23.1440.877/1440.-71.1680.977@0.23.1440.877" timestamp="1588289978235" />
+    <state width="1398" height="133" key="GridCell.Tab.0.right" timestamp="1589982621530">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.827/1440.-437.1680.1027@0.23.1440.827" timestamp="1587856319866" />
+    <state width="1398" height="133" key="GridCell.Tab.0.right/0.23.1440.827/1440.-71.1680.1027@0.23.1440.827" timestamp="1589982621530" />
+    <state width="1398" height="133" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1589539042289" />
+    <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.877/1440.-71.1680.1027@0.23.1440.877" timestamp="1587985861216" />
+    <state width="1398" height="133" key="GridCell.Tab.0.right/0.23.1440.877/1440.-71.1680.977@0.23.1440.877" timestamp="1588289978238" />
+    <state x="308" y="298" key="Performance.Activity.Monitor" timestamp="1587733544915">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="308" y="298" key="Performance.Activity.Monitor/0.23.1440.877/1440.-437.1680.1027@0.23.1440.877" timestamp="1587733544915" />
+    <state x="229" y="78" key="SettingsEditor" timestamp="1588281596164">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="229" y="75" key="SettingsEditor/0.23.1440.827/1440.-437.1680.1027@0.23.1440.827" timestamp="1587641774631" />
+    <state x="229" y="78" key="SettingsEditor/0.23.1440.877/1440.-71.1680.977@0.23.1440.877" timestamp="1588281596164" />
+    <state x="611" y="176" key="ftp.server.browser" timestamp="1588274048206">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="611" y="176" key="ftp.server.browser/0.23.1440.827/1440.-71.1680.1027@0.23.1440.827" timestamp="1588274048206" />
+    <state x="385" y="174" width="670" height="676" key="search.everywhere.popup" timestamp="1587859940011">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="385" y="174" width="670" height="676" key="search.everywhere.popup/0.23.1440.827/1440.-437.1680.1027@0.23.1440.827" timestamp="1587859940011" />
   </component>
 </project>
