@@ -2,40 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fc7fa28-8ac5-4b60-9ef7-821d47dfd30d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design/JK.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design/jotka logo.ai" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/Grotta-Regular.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/Grotta-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/cursor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/cursor.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/hand.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icons/1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icons/2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icons/3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icons/4.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icons/5.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/icons/6.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/star.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/stone-face.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/svg/JK.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Logo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Logo.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Menu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Menu.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hooks/scrollPosition.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/coordinateTransformations.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/svgCurveTransformations.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,15 +119,29 @@
       <option name="presentableId" value="Default" />
       <updated>1586768551523</updated>
       <workItem from="1586768555567" duration="57552000" />
-      <workItem from="1588168641078" duration="16222000" />
+      <workItem from="1588168641078" duration="16568000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1589982798503</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589982798519</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="108" key="#Deployment" timestamp="1588282200549">
@@ -185,10 +166,18 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="408" y="181" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.877/1440.-71.1680.977@0.23.1440.877" timestamp="1588168414547" />
+    <state x="329" y="41" key="CommitChangelistDialog2" timestamp="1589982792665">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="329" y="41" key="CommitChangelistDialog2/0.23.1440.827/1440.-71.1680.1027@0.23.1440.827" timestamp="1589982792665" />
     <state x="100" y="123" width="1240" height="627" key="DirDiffDialog" timestamp="1588280173933">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state x="100" y="123" width="1240" height="627" key="DirDiffDialog/0.23.1440.827/1440.-71.1680.1027@0.23.1440.827" timestamp="1588280173933" />
+    <state x="540" y="326" key="Github.ShareDialog" timestamp="1589982861574">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="540" y="326" key="Github.ShareDialog/0.23.1440.827/1440.-71.1680.1027@0.23.1440.827" timestamp="1589982861574" />
     <state width="1398" height="133" key="GridCell.Tab.0.bottom" timestamp="1589982621532">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
@@ -221,6 +210,10 @@
     <state width="1398" height="133" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1589539042289" />
     <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.877/1440.-71.1680.1027@0.23.1440.877" timestamp="1587985861216" />
     <state width="1398" height="133" key="GridCell.Tab.0.right/0.23.1440.877/1440.-71.1680.977@0.23.1440.877" timestamp="1588289978238" />
+    <state x="308" y="188" key="IDE.errors.dialog" timestamp="1589982831247">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="308" y="188" key="IDE.errors.dialog/0.23.1440.827/1440.-71.1680.1027@0.23.1440.827" timestamp="1589982831247" />
     <state x="308" y="298" key="Performance.Activity.Monitor" timestamp="1587733544915">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -230,6 +223,10 @@
     </state>
     <state x="229" y="75" key="SettingsEditor/0.23.1440.827/1440.-437.1680.1027@0.23.1440.827" timestamp="1587641774631" />
     <state x="229" y="78" key="SettingsEditor/0.23.1440.877/1440.-71.1680.977@0.23.1440.877" timestamp="1588281596164" />
+    <state x="483" y="289" key="cloudConfig.SelfSettingsDialog" timestamp="1589982815518">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="483" y="289" key="cloudConfig.SelfSettingsDialog/0.23.1440.827/1440.-71.1680.1027@0.23.1440.827" timestamp="1589982815518" />
     <state x="611" y="176" key="ftp.server.browser" timestamp="1588274048206">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
