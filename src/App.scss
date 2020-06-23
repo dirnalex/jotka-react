@@ -8,22 +8,40 @@
   font-family: Grotta, sans-serif;
   font-size: 20px;
   background-color: #B3B3B3;
-  cursor: url(/img/cursor.png) 42 19, auto;
+  cursor: url(/img/cursor.png) 42 19, url(/img/cursor-75.png) 31 14, url(/img/cursor-50.png) 21 9, url(/img/cursor-25.png) 10 5, none;
 
   a {
     color: inherit;
     text-decoration: inherit;
-    animation-duration: 3s;
-    animation-name: slidein;
   }
 
-  @keyframes slidein {
-    from {
-      cursor: url(/img/cursor.png) 0 0, auto;
+  a:hover {
+    font-feature-settings: "salt";
+    animation-name: cursorbounce;
+    animation-duration: 500ms;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+  }
+
+  @keyframes cursorbounce {
+    0% {
+      cursor: url(/img/cursor.png) 42 19, url(/img/cursor-75.png) 31 14, url(/img/cursor-50.png) 21 9, url(/img/cursor-25.png) 10 5, none;
     }
 
-    to {
-      cursor: url(/img/cursor.png) 85 38, auto;
+    25% {
+      cursor: url(/img/cursor-75.png) 31 14, url(/img/cursor-50.png) 21 9, url(/img/cursor-25.png) 10 5, none;
+    }
+
+    50% {
+      cursor: url(/img/cursor-50.png) 21 9, url(/img/cursor-25.png) 10 5, none;
+    }
+
+    75% {
+      cursor: url(/img/cursor-25.png) 10 5, none;
+    }
+
+    100% {
+      cursor: none;
     }
   }
 
